@@ -12,9 +12,10 @@ export default function Hero() {
       <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto flex flex-col items-center">
         
         <span className="text-sm md:text-base font-black bg-emerald-600 text-white px-6 py-2 rounded-full uppercase tracking-widest shadow-md">
-            Sungai Adalah Nadi Bangsa
+          Sungai Adalah Nadi Bangsa
         </span>
         
+
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-black mt-5 mb-3 tracking-wide leading-tight flex flex-col items-center">
           <span>
             <span className="uppercase">AYO</span> muliakan sungai
@@ -29,12 +30,15 @@ export default function Hero() {
         </p>
         
         <div className="flex justify-center">
-          <button className="bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-sm md:text-base px-6 py-3 md:px-8 md:py-3.5 rounded-full shadow-lg flex items-center gap-3 transition-all duration-300 hover:shadow-emerald-600/20 active:scale-95 group">
+          <a 
+            href="#about" 
+            className="bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-sm md:text-base px-6 py-3 md:px-8 md:py-3.5 rounded-full shadow-lg flex items-center gap-3 transition-all duration-300 hover:shadow-emerald-600/20 active:scale-95 group"
+          >
             Pelajari Gerakan 
             <div className="bg-white/20 rounded-full p-1 transition-transform duration-300 group-hover:translate-x-1">
               <ArrowRight size={16} strokeWidth={3} />
             </div>
-          </button>
+          </a>
         </div>
 
       </div>

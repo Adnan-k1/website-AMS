@@ -14,7 +14,7 @@ export default function About() {
             </h2>
             
             <p className="text-sm md:text-base text-gray-600 leading-relaxed mb-8">
-              Gerakan Nasional yang bertujuan untuk melindungi dan melestarikannya sungai sebagai 
+              Gerakan Nasional yang bertujuan untuk melindungi dan melestarikan sungai sebagai 
               infrastruktur dasar-alami bagi kesejahteraan manusia. AMS memandang sungai sebagai 
               urat nadi peradaban yang harus kita jaga bersama demi masa depan Indonesia.
             </p>
@@ -26,15 +26,15 @@ export default function About() {
             </div>
           </div>
 
-          <div className="w-full md:w-2/5 flex flex-col items-center justify-center">
-            <div className="w-48 h-48 md:w-60 md:h-60 flex items-center justify-center transition-transform hover:scale-105 duration-300">
-              <img 
-                src={logoAms} 
-                alt="Ayo Muliakan Sungai" 
-                className="w-full h-full object-contain"
-              />
+        <div className="w-full md:w-2/5 flex flex-col items-center justify-center">
+            <div className="w-64 h-64 md:w-72 md:h-72 lg:w-80 lg:h-80 flex items-center justify-center transition-transform hover:scale-110 duration-300">
+                <img 
+                    src={logoAms} 
+                    alt="Ayo Muliakan Sungai" 
+                    className="w-full h-full object-contain"
+                />
             </div>
-          </div>
+        </div>
 
         </div>
       </div>
