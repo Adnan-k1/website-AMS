@@ -35,38 +35,38 @@ export const foundationsData = [
   { 
     id: "01", 
     title: "Ruang Budaya & Sosial", 
-    desc: "Ruang interaksi, tradisi, dan identitas masyarakat.", 
+    desc: "Menjadi ruang interaksi masyarakat yang mendukung pelestarian tradisi, nilai budaya, dan identitas lokal. Keberadaannya berperan penting dalam memperkuat hubungan sosial serta menjaga keberlanjutan warisan budaya antar generasi.", 
     bgImage: "https://images.unsplash.com/photo-1532186651327-6ac23687d189?q=80&w=1049&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
   },
   { 
     id: "02", 
     title: "Ekosistem Hayati", 
-    desc: "Habitat penting bagi tumbuhan, ikan, dan satwa liar.", 
+    desc: "Menyediakan habitat alami bagi berbagai jenis flora dan fauna yang saling berinteraksi dalam menjaga keseimbangan lingkungan. Ekosistem yang sehat berkontribusi terhadap keberlanjutan sumber daya alam dan keanekaragaman hayati.", 
     bgImage: "https://unair.ac.id/wp-content/uploads/2019/09/2-xspesies-ikan-lokal-indonesia-jumlahnya-kian-menyusut-58.jpg" 
   },
   { 
     id: "03", 
     title: "Energi & Produktivitas", 
-    desc: "Sumber energi terbarukan, perikanan, dan wisata.", 
+    desc: "Mendukung berbagai aktivitas ekonomi melalui pemanfaatan sumber daya alam secara berkelanjutan. Potensi ini dapat dimanfaatkan untuk energi terbarukan, perikanan, pariwisata, dan sektor produktif lainnya yang meningkatkan kesejahteraan masyarakat.", 
     bgImage: "https://images.pexels.com/photos/37814893/pexels-photo-37814893.jpeg" 
   },
   { 
     id: "04", 
     title: "Transportasi", 
-    desc: "Jalur mobilitas manusia dan logistik antar wilayah.", 
+    desc: "Berfungsi sebagai jalur mobilitas yang menghubungkan berbagai wilayah dan mempermudah perpindahan manusia maupun distribusi barang. Perannya sangat penting dalam mendukung konektivitas, perdagangan, dan pertumbuhan ekonomi daerah.", 
     bgImage: "https://images.unsplash.com/photo-1696713142004-89e949c4cf05?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
   },
   { 
     id: "05", 
     title: "Pengendali Banjir", 
-    desc: "Infrastruktur alami untuk menampung lintasan air.", 
+    desc: "Berperan dalam mengatur aliran serta penyimpanan air untuk mengurangi risiko banjir pada kawasan permukiman dan lahan produktif. Fungsi ini membantu menjaga keamanan lingkungan serta melindungi infrastruktur dan aktivitas masyarakat.", 
     bgImage: "https://images.pexels.com/photos/32199390/pexels-photo-32199390.jpeg ",
     bgPos: "bg-bottom"
   },
   { 
     id: "06", 
     title: "Sumber Air Bersih", 
-    desc: "Kebutuhan air baku domestik dan irigasi pertanian.", 
+    desc: "Menyediakan pasokan air yang dibutuhkan untuk keperluan rumah tangga, pertanian, dan berbagai aktivitas ekonomi. Ketersediaan sumber air yang terjaga menjadi faktor penting dalam mendukung kesehatan dan kualitas hidup masyarakat.", 
     bgImage: "https://images.unsplash.com/photo-1707964109387-459cb3c16673?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
   }
 ];

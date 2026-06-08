@@ -32,11 +32,11 @@ export default function Prinsip() {
   ];
 
   return (
-    <section id="Prinsip" className="py-20 bg-white px-4">
+    <section id="prinsip" className="py-20 bg-white px-4">
       <div className="max-w-6xl mx-auto text-center">
         
-        <span className="bg-emerald-50 text-emerald-600 text-xs font-bold tracking-widest uppercase px-4 py-1.5 rounded-full border border-emerald-100">
-          Pilar Utama
+        <span className="bg-emerald-50 text-emerald-600 text-sm font-bold tracking-widest uppercase px-5 py-2 rounded-full border border-emerald-100 shadow-sm inline-block">
+           Pilar Utama
         </span>
         
         <h2 className="text-3xl md:text-4xl font-extrabold text-blue-950 mt-4 mb-16 tracking-tight">
