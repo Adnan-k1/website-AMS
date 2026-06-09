@@ -7,57 +7,48 @@ const strukturData = {
   founder: {
     nama: "Dr. Agus Harimurti Yudhoyono",
     foto: fotoAHY,
-    link: "#"
+    link: "https://www.google.com/search?q=Dr.+Agus+Harimurti+Yudhoyono&rlz=1C1GCEA_enID1117ID1117&oq=Dr.+Agus+Harimurti+Yudhoyono&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgKGBYYHjIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIHCAUQABjvBdIBBzQ3MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8"
   },
   majelisPengarah: {
-    letua: { nama: "Dr. Iftitah Sulaiman", jabatan: "Ketua Majelis Pengarah", link: "#" }, // disesuaikan dari kunci asal
-    ketua: { nama: "Dr. Iftitah Sulaiman", jabatan: "Ketua Majelis Pengarah", link: "#" },
+    letua: { nama: "Dr. Iftitah Sulaiman", jabatan: "Ketua Majelis Pengarah", link: "https://www.google.com/search?q=Dr.+Iftitah+Sulaiman&rlz=1C1GCEA_enID1117ID1117&oq=Dr.+Iftitah+Sulaiman&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIKCAQQABiABBiiBDIKCAUQABiiBBiJBTIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBBzQ0MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8" }, // disesuaikan dari kunci asal
+    ketua: { nama: "Dr. Iftitah Sulaiman", jabatan: "Ketua Majelis Pengarah", link: "https://www.google.com/search?q=Dr.+Iftitah+Sulaiman&rlz=1C1GCEA_enID1117ID1117&oq=Dr.+Iftitah+Sulaiman&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIKCAQQABiABBiiBDIKCAUQABiiBBiJBTIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBBzQ0MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8" },
     anggota: [
-      { nama: "Teuku R. Harsya, MT", link: "#" },
-      { nama: "Dodi Hanggodo, MPE", link: "#" },
-      { nama: "Ossy Dermawan, MSc", link: "#" },
-      { nama: "I. B. Putera Partahama, PhD", link: "#" }
+      { nama: "Teuku R. Harsya, MT", link: "https://www.google.com/search?q=Teuku+R.+Harsya%2C+MT&rlz=1C1GCEA_enID1117ID1117&oq=Teuku+R.+Harsya%2C+MT&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGO8FMgcIAhAAGO8FMgoIAxAAGIAEGKIEMgcIBBAAGO8FMgoIBRAAGIAEGKIE0gEIMjI0NmowajmoAgCwAgA&sourceid=chrome&ie=UTF-8" },
+      { nama: "Dodi Hanggodo, MPE", link: "https://www.google.com/search?q=Dodi+Hanggodo%2C+MPE&rlz=1C1GCEA_enID1117ID1117&oq=Dodi+Hanggodo%2C+MPE&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MggIARAAGA0YHjIKCAIQABgFGA0YHjIKCAMQABiABBiiBDIHCAQQABjvBTIKCAUQABiABBiiBDIHCAYQABjvBTIHCAcQABjvBdIBBzM4MWowajmoAgawAgHxBUlWyNJvL09x&sourceid=chrome&ie=UTF-8" },
+      { nama: "Ossy Dermawan, MSc", link: "https://www.google.com/search?q=Ossy+Dermawan%2C+MSc&rlz=1C1GCEA_enID1117ID1117&oq=Ossy+Dermawan%2C+MSc&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAhGI8CMgcIAhAhGI8C0gEINzQ0NmowajmoAgCwAgA&sourceid=chrome&ie=UTF-8" },
+      { nama: "I. B. Putera Partahama, PhD", link: "https://www.google.com/search?q=I.+B.+Putera+Partahama%2C+PhD&rlz=1C1GCEA_enID1117ID1117&oq=I.+B.+Putera+Partahama%2C+PhD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgcIAhAhGI8C0gEHNjI5ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8" }
     ]
   },
   majelisPakar: {
-    ketua: { nama: "Prof. Chay Asdak", jabatan: "Ketua Majelis Pakar", link: "#" },
+    ketua: { nama: "Prof. Chay Asdak", jabatan: "Ketua Majelis Pakar", link: "https://www.linkedin.com/in/chay-asdak-69b42328/" },
     anggota: [
-      { nama: "Prof. Agus Maryono", link: "#" },
-      { nama: "Prof. Esti Handayani", link: "#" },
-      { nama: "Dr. Muh. Herjanto", link: "#" },
-      { nama: "Arie S. Moerwanto, PhD", link: "#" }
+      { nama: "Prof. Agus Maryono", link: "https://www.google.com/search?q=Prof.+Agus+Maryono&rlz=1C1GCEA_enID1117ID1117&oq=Prof.+Agus+Maryono&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yBwgFEAAY7wUyBwgGEAAY7wUyBwgHEAAY7wXSAQc1NzZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8" },
+      { nama: "Prof. Esti Handayani", link: "https://www.google.com/search?q=Prof.+Esti+Handayani&rlz=1C1GCEA_enID1117ID1117&oq=Prof.+Esti+Handayani&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIHCAQQABjvBTIKCAUQABiABBiiBDIKCAYQABiABBiiBNIBCDMzNTlqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8" },
+      { nama: "Dr. Muh. Herjanto", link: "https://www.google.com/search?q=Dr.+Muh.+Herjanto&rlz=1C1GCEA_enID1117ID1117&oq=Dr.+Muh.+Herjanto&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiABBiiBDIHCAQQABjvBTIHCAUQABjvBdIBCDI0MTBqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8" },
+      { nama: "Arie S. Moerwanto, PhD", link: "https://www.google.com/search?q=Arie+S.+Moerwanto%2C+PhD&rlz=1C1GCEA_enID1117ID1117&oq=Arie+S.+Moerwanto%2C+PhD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBdIBCDIyNTZqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8" }
     ]
   },
   pimpinanNasional: {
-    ketuaUmum: { nama: "Dr. H. Irwan, S.IP., MP.", jabatan: "Ketua Nasional / Co-Founder", link: "#" },
+    ketuaUmum: { nama: "Dr. H. Irwan, S.IP., MP.", jabatan: "Ketua Nasional / Co-Founder", link: "https://www.google.com/search?q=Dr.+H.+Irwan%2C+S.IP.%2C+MP.&rlz=1C1GCEA_enID1117ID1117&oq=Dr.+H.+Irwan%2C+S.IP.%2C+MP.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yBwgCEAAY7wUyBwgDEAAY7wXSAQc2NzFqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8" },
     wakil: [
-      { nama: "Nazib Faizal, ST., M.Sc", jabatan: "Wakil Ketua Nasional", link: "#" },
-      { nama: "Jovan Latuconsina, MA", jabatan: "Wakil Ketua Nasional", link: "#" },
-      { nama: "Sigit Raditya", jabatan: "Wakil Ketua Nasional", link: "#" }
+      { nama: "Nazib Faizal, ST., M.Sc", jabatan: "Wakil Ketua Nasional", link: "https://www.google.com/search?q=Nazib+Faizal%2C+ST.%2C+M.Sc&rlz=1C1GCEA_enID1117ID1117&oq=Nazib+Faizal%2C+ST.%2C+M.Sc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgKGBYYHjIKCAIQABiABBiiBDIHCAMQABjvBTIHCAQQABjvBTIHCAUQABjvBdIBBzU5OGowajmoAgCwAgA&sourceid=chrome&ie=UTF-8" },
+      { nama: "Jovan Latuconsina, MA", jabatan: "Wakil Ketua Nasional", link: "https://www.google.com/search?q=Jovan+Latuconsina%2C+MA&sca_esv=524e7672773a6e77&rlz=1C1GCEA_enID1117ID1117&sxsrf=ANbL-n7etpaexYzwsYx3M5lrqG6D7CX7Gg%3A1780926723265&ei=A8kmarb4D4mZseMP9uG0aA&biw=851&bih=897&ved=0ahUKEwj2hdiF5feUAxWJTGwGHfYwDQ0Q4dUDCBA&uact=5&oq=Jovan+Latuconsina%2C+MA&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUpvdmFuIExhdHVjb25zaW5hLCBNQTIEECEYFUinElClDVilDXABeACQAQCYAXqgAXqqAQMwLjG4AQPIAQD4AQL4AQGYAgKgApMBwgIHECMYsAMYJ8ICCRAAGB4YsAMYCsICCxAAGIAEGKIEGLADwgIIEAAY7wUYsAOYAwCIBgGQBgaSBwMxLjGgB50BsgcDMC4xuAeFAcIHBzAuMS4wLjHIBwyACAE&sclient=gws-wiz-serp" },
+      { nama: "Dr Sigit Raditya", jabatan: "Wakil Ketua Nasional", link: "https://www.google.com/search?q=Sigit+Raditya&rlz=1C1GCEA_enID1117ID1117&oq=Sigit+Raditya&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQc4OTdqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8" }
     ],
     inti: [
-      { nama: "Iding A. Haidir, D.Phil", jabatan: "Sekretaris Nasional", link: "#" },
-      { nama: "Bambang Supriyadi, M.Si", jabatan: "Bendahara Nasional", link: "#" }
+      { nama: "Iding A. Haidir, D.Phil", jabatan: "Sekretaris Nasional", link: "https://www.google.com/search?q=Iding+A.+Haidir%2C+D.Phil&rlz=1C1GCEA_enID1117ID1117&oq=Iding+A.+Haidir%2C+D.Phil&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKABMgcIBRAhGI8CMgcIBhAhGI8C0gEHNDcxajBqOagCALACAA&sourceid=chrome&ie=UTF-8" },
+      { nama: "Bambang Supriyadi, M.Si", jabatan: "Bendahara Nasional", link: "https://www.google.com/search?q=Bambang+Supriyadi%2C+M.Si&rlz=1C1GCEA_enID1117ID1117&oq=Bambang+Supriyadi%2C+M.Si&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIHCAQQABjvBTIKCAUQABiABBiiBNIBBzQ3NGowajmoAgCwAgA&sourceid=chrome&ie=UTF-8" }
     ],
     direktorat: [
-      { nama: "Yudhi Purnomo, M.IPOL", jabatan: "Direktur Aksi Lapangan & Komunitas", link: "#" },
-      { nama: "Aris Dwi Subiantoro, SHut, MSc", jabatan: "Direktur Advokasi & Kebijakan", link: "#" },
-      { nama: "Jasmine Doloksaribu, MBA", jabatan: "Direktur Edukasi, Kampanye & Media", link: "#" },
-      { nama: "Agassi Rivano, BA", jabatan: "Ko-Direktur Kemitraan & CSR", link: "#" },
-      { nama: "Maaike Ira P., S.Hum., M.Si", jabatan: "Ko-Direktur Kemitraan & CSR", link: "#" },
+      { nama: "Yudhi Purnomo, M.IPOL", jabatan: "Direktur Aksi Lapangan & Komunitas", link: "https://www.google.com/search?q=Yudhi+Purnomo&sca_esv=524e7672773a6e77&rlz=1C1GCEA_enID1117ID1117&biw=851&bih=897&sxsrf=ANbL-n4KPG6JXv_6Ma140BqzWuoHtVthpQ%3A1780926876546&ei=nMkmaqqJIdeSseMPlOvRyAk&ved=0ahUKEwiqx-PO5feUAxVXSWwGHZR1FJkQ4dUDCBA&uact=5&oq=Yudhi+Purnomo&gs_lp=Egxnd3Mtd2l6LXNlcnAiDVl1ZGhpIFB1cm5vbW8yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA1ItTRQxgRYnChwAXgAkAEAmAHdA6AB1wqqAQkyLjMuMC4xLjG4AQPIAQD4AQGYAgSgAtkFwgIGEAAYFhgewgIFEAAY7wXCAggQABiABBiiBJgDAIgGAZIHBzEuMi4wLjGgB5QjsgcHMS4yLjAuMbgH2QXCBwMyLTTIBxWACAE&sclient=gws-wiz-serp" },
+      { nama: "Aris Dwi Subiantoro, SHut, MSc", jabatan: "Direktur Advokasi & Kebijakan", link: "https://www.google.com/search?q=Aris+Dwi+Subiantoro%2C+SHut%2C+MSc&rlz=1C1GCEA_enID1117ID1117&oq=Aris+Dwi+Subiantoro%2C+SHut%2C+MSc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBBzM0NWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8" },
+      { nama: "Jasmine Doloksaribu, MBA", jabatan: "Direktur Edukasi, Kampanye & Media", link: "https://www.google.com/search?sca_esv=524e7672773a6e77&rlz=1C1GCEA_enID1117ID1117&biw=851&bih=897&sxsrf=ANbL-n6E0FXqXH_-14h4wrAsFsvAuI0eVQ:1780927041262&q=Jasmine+Doloksaribu,+MBA&source=lnms&fbs=ADc_l-bZcMVrGKooVb3efWZDs_TyvVKQEflZjdJMuyb6HqpxqZt2TgWho72k-u1oI0h6hc-nmDWa6TMQn8SZL5dYhMXA-AvWySKy9UndWHIZBzUYPXw3UFNzFjFbuCvpUg8WCOYIZJvUkvl4L6DINlKMQsPdr8qSDjEkDrWPO62rKs2P6YSs3z26HngeteJ-RrAMfKn0d2nn40crvUPO4fm_VBwIWcwOi6IkGoqoEeFtfS373SkAaZw&sa=X&ved=2ahUKEwjr-aid5veUAxX-SGwGHWaOF-AQ0pQJegQICxAB" },
+      { nama: "Agassi Revano, BA", jabatan: "Ko-Direktur Kemitraan & CSR", link: "https://www.google.com/search?q=Agassi+Rivano&sca_esv=524e7672773a6e77&rlz=1C1GCEA_enID1117ID1117&sxsrf=ANbL-n5d-YV16D69m4wPWldSRpUxf0eyQQ%3A1780927076040&ei=ZMomauCaAtWRseMPuKrXqAE&biw=851&bih=897&ved=0ahUKEwjg3POt5veUAxXVSGwGHTjVFRUQ4dUDCBA&uact=5&oq=Agassi+Rivano&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUFnYXNzaSBSaXZhbm8yBxAhGAoYoAFItQ9QpwdYpQ1wAXgAkAEAmAF9oAHtAqoBAzMuMbgBA8gBAPgBAZgCBaACiAPCAgsQABiABBiiBBiwA8ICCxAAGIkFGKIEGLADmAMA4gMFEgExIECIBgGQBgSSBwM0LjGgB8IIsgcDMy4xuAeCA8IHBTAuNC4xyAcMgAgB&sclient=gws-wiz-serp" },
+      { nama: "Maaike Ira P., S.Hum., M.Si", jabatan: "Ko-Direktur Kemitraan & CSR", link: "https://www.google.com/search?q=Maaike+Ira+P.%2C+S.Hum.%2C+M.Si&rlz=1C1GCEA_enID1117ID1117&oq=Maaike+Ira+P.%2C+S.Hum.%2C+M.Si&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAjIHCAMQIRiPAtIBCDIwMDhqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8" },
       { nama: "Dr. Abdul Kodir", jabatan: "Direktur Data, Riset & Inovasi", link: "#" }
     ]
   },
-  pengurusNasionalLengkap: [
-    { nama: "Andi Saputra, S.H.", jabatan: "Deputi Hukum & Organisasi" },
-    { nama: "Rizky Amelia, M.Si", jabatan: "Hubungan Antar Lembaga" },
-    { nama: "Fahmi Idris, B.Eng", jabatan: "Teknologi & Sistem Informasi" }
-  ],
-  relawanWilayah: [
-    { nama: "Wilayah Ciliwung Raya", jabatan: "Koordinator DKI Jakarta & Sekitarnya" },
-    { nama: "Wilayah Sungai Mahakam", jabatan: "Koordinator Kalimantan Timur" },
-    { nama: "Wilayah Sungai Bengawan Solo", jabatan: "Koordinator Jawa Tengah & Jatim" }
-  ]
+  
 };
 
 function Connector({ color = 'bg-slate-300' }) {
@@ -254,41 +245,7 @@ export default function StrukturPage() {
           ))}
         </div>
 
-        <Connector color="bg-slate-300" />
-
-        {/* ── FILTER DETAIL TABEL PENGURUS & RELAWAN ── */}
-        <div className="w-full max-w-4xl bg-white border border-slate-100 rounded-2xl p-6 text-center shadow-sm z-10">
-          <p className="text-[11px] md:text-xs text-slate-500 font-semibold leading-relaxed mb-4">
-            Serta didukung oleh seluruh jajaran Pengurus Nasional dan Relawan di Seluruh Wilayah Sungai Indonesia.
-          </p>
-          <div className="flex flex-wrap justify-center gap-3 mb-6">
-            <button onClick={() => setFilterBawah('nasional')}
-              className={`inline-flex items-center gap-1.5 font-bold text-[10px] uppercase tracking-wider px-4 py-2 rounded-lg border transition-all ${filterBawah === 'nasional' ? 'bg-blue-950 text-white border-blue-950 shadow-sm' : 'bg-slate-50 text-slate-600 border-slate-200 hover:bg-slate-100'}`}>
-              <UsersIcon size={12} /> Pengurus Nasional
-            </button>
-            <button onClick={() => setFilterBawah('wilayah')}
-              className={`inline-flex items-center gap-1.5 font-bold text-[10px] uppercase tracking-wider px-4 py-2 rounded-lg border transition-all ${filterBawah === 'wilayah' ? 'bg-emerald-600 text-white border-emerald-600 shadow-sm' : 'bg-slate-50 text-slate-600 border-slate-200 hover:bg-slate-100'}`}>
-              <MapIcon size={12} /> Relawan Wilayah
-            </button>
-          </div>
-          
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 bg-slate-50 p-4 rounded-xl border border-slate-100">
-            {filterBawah === 'nasional'
-              ? strukturData.pengurusNasionalLengkap.map((ps, idx) => (
-                  <div key={idx} className="bg-white p-3 rounded-lg border border-slate-200/60 text-left shadow-sm">
-                    <h5 className="font-bold text-xs text-slate-800">={ps.nama}</h5>
-                    <p className="text-[9px] text-slate-400 uppercase tracking-wide mt-0.5">{ps.jabatan}</p>
-                  </div>
-                ))
-              : strukturData.relawanWilayah.map((rl, idx) => (
-                  <div key={idx} className="bg-white p-3 rounded-lg border border-slate-200/60 text-left shadow-sm">
-                    <h5 className="font-bold text-xs text-emerald-700">{rl.nama}</h5>
-                    <p className="text-[9px] text-slate-400 mt-0.5">{rl.jabatan}</p>
-                  </div>
-                ))
-            }
-          </div>
-        </div>
+        
 
       </div>
     </section>
