@@ -12,9 +12,9 @@ import About from './sections/About';
 import Principles from './sections/Principles';
 import Foundations from './sections/Foundations';
 
-
 import VoyageTimeline from './sections/VoyageTimeline'; 
 
+import LoadingScreen from './components/LoadingScreen'; 
 function ScrollReveal({ children, delay = 0 }) {
   return (
     <motion.div

@@ -13,6 +13,7 @@ const strukturData = {
     ketua: { nama: "Dr. Iftitah Sulaiman", jabatan: "Ketua Majelis Pengarah", link: "https://www.google.com/search?q=Dr.+Iftitah+Sulaiman" },
     anggota: [
       { nama: "Teuku R. Harsya, MT", link: "https://www.google.com/search?q=Teuku+R.+Harsya%2C+MT" },
+      { nama: "Dr. Herman Khaeron", link: "https://www.google.com/search?q=Dr.+Herman+Khaeron" }, // Berhasil Ditambahkan di Sini
       { nama: "Dodi Hanggodo, MPE", link: "https://www.google.com/search?q=Dodi+Hanggodo%2C+MPE" },
       { nama: "Ossy Dermawan, MSc", link: "https://www.google.com/search?q=Ossy+Dermawan%2C+MSc" },
       { nama: "I. B. Putera Partahama, PhD", link: "https://www.google.com/search?q=I.+B.+Putera+Partahama%2C+PhD" }
