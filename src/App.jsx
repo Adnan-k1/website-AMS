@@ -7,19 +7,14 @@ import Navbar from './sections/Navbar';
 import Footer from './sections/Footer';
 import StrukturPage from './pages/StrukturPage';
 
-// Import sections beranda lama kamu
 import Hero from './sections/Hero';
 import About from './sections/About';
 import Principles from './sections/Principles';
 import Foundations from './sections/Foundations';
 
-// 1. PERBAIKAN: Impor section baru (The Voyage) dari folder sections yang sama dengan App.jsx
+
 import VoyageTimeline from './sections/VoyageTimeline'; 
 
-// Import Loading Screen
-import LoadingScreen from './components/LoadingScreen'; 
-
-// Komponen Pembungkus Animasi Scroll Reveal
 function ScrollReveal({ children, delay = 0 }) {
   return (
     <motion.div
@@ -27,7 +22,7 @@ function ScrollReveal({ children, delay = 0 }) {
       whileInView={{ opacity: 1, y: 0 }} 
       viewport={{ once: true, amount: 0.15 }} 
       transition={{ 
-        duration: 1.2, // Dioptimalkan menjadi 1.2 detik agar lambat namun tetap responsif bagi pengunjung
+        duration: 1.2, 
         ease: [0.21, 1.02, 0.43, 1.01], 
         delay: delay 
       }}
@@ -37,31 +32,25 @@ function ScrollReveal({ children, delay = 0 }) {
   );
 }
 
-// Komponen HomePage Beranimasi Scroll (Sudah disatukan dengan VoyageTimeline)
 function HomePage() {
   return (
     <div className="bg-[#fafafa] min-h-screen">
-      {/* 1. Hero Section */}
       <ScrollReveal>
         <Hero />
       </ScrollReveal>
 
-      {/* 2. About Section */}
       <ScrollReveal delay={0.1}>
         <About />
       </ScrollReveal>
 
-      {/* 3. PERBAIKAN: Menambahkan VoyageTimeline secara horizontal di halaman utama */}
       <ScrollReveal delay={0.12}>
         <VoyageTimeline />
       </ScrollReveal>
 
-      {/* 4. Principles Section */}
       <ScrollReveal delay={0.15}>
         <Principles />
       </ScrollReveal>
 
-      {/* 5. Foundations Section */}
       <ScrollReveal delay={0.2}>
         <Foundations />
       </ScrollReveal>

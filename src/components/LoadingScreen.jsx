@@ -5,7 +5,7 @@ import logoAMS from '../assets/logo-ams.png';
 export default function LoadingScreen() {
   return (
     <div className="fixed inset-0 bg-blue-950 flex flex-col items-center justify-center z-[9999]">
-      {/* Animasi Logo Berdenyut Halus */}
+      
       <motion.div
         initial={{ scale: 0.6, opacity: 0 }}
         animate={{ 
