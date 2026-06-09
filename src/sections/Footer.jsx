@@ -59,8 +59,8 @@ export default function Footer() {
             </p>
             <div className="pt-1">
               <span className="text-slate-500 block text-[10px] uppercase font-bold tracking-wider">Email Resmi:</span>
-              <a href="mailto:sekretariat@gmail.com" className="text-emerald-400 hover:underline break-all">
-                sekretariat@gmail.com
+              <a href="mailto:sekretariat@ayomuliakansungai.org" className="text-emerald-400 hover:underline break-all">
+                sekretariat@ayomuliakansungai.org
               </a>
             </div>
           </div>
